@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mini-nanobot
+Version: 0.1.0
+Summary: 从零复现练习项目
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: langchain==1.2.7
+Requires-Dist: langchain-openai>=1.3.5
+Requires-Dist: langgraph<1.1,>=1.0.10
+Requires-Dist: langgraph-prebuilt<1.0.9
+Requires-Dist: langgraph-checkpoint-sqlite>=3.1.0
+Requires-Dist: openai>=2.46.0
+Requires-Dist: pydantic
+Requires-Dist: python-dotenv
+Requires-Dist: rich
