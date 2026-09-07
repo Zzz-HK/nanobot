@@ -13,3 +13,6 @@ Requires-Dist: openai>=2.46.0
 Requires-Dist: pydantic
 Requires-Dist: python-dotenv
 Requires-Dist: rich
+
+# nanobot
+一个nanobot学习项目
